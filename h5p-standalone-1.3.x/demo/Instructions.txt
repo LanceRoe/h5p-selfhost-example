@@ -1,0 +1,7 @@
+first, open the template file and copy the html code to your clipboard.
+Second, Go back to the Demo folder, and click add file > Create new file
+Third, Name the file (use the exact same name of the specific H5P content in the Workspace Folder) make sure you include .html in the file name.
+Forth, Paste the html code to the body of the new file.
+Fifth, On line 13 (H5PContent: "../workspace); replace <!-- Replace me with H5P name --> with the name of the specific content.
+     Line 13 should look like: h5pContent: '../workspace/content-example-1'
+Sixth, Commit new file
